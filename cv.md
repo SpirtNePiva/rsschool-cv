@@ -13,6 +13,18 @@ __E-mail:__ *SomeE-mail@gmail.com*
 *Основы JavaScript*
 *VS Code*
 
+### Пример кода: 
+__Фрагмент кода на CSS для оформления одностраничного сайта__
+```CSS
+ .photo_second-block {
+  width: 25%;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+```
+
 ### Опыт работы
 *Опыт работы отсутствует*
 
