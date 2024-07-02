@@ -1,2 +1,2 @@
 # rsschool-cv
-https://SpirtNePiva.github.io/rsschool-cv/cv
+https://SpirtNePiva.github.io/rsschool-cv/
